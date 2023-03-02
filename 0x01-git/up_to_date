@@ -1,2 +1,3 @@
-git pull
+#!/bin/bash
+exho "git pull"
 
